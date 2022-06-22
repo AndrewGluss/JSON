@@ -8,5 +8,11 @@
 		"Git Bash" : "Middle",
 		"JS" : "Basic",
 		"XML" : "Basic",
+	},
+	"CAD_skills" : {
+		"SolidWorks" : "Middle",
+		"AutoCAD" : "Basic",
+		"PCAD_200x" : "Middle",
+		"Altium_Designer_20" : "Middle",
 	}
 }
